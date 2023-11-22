@@ -1,0 +1,3 @@
+# derivativespricing
+
+This project conducts a comprehensive analysis of derivatives trading, delving into crucial models, strategic frameworks, and intricate pricing mechanisms for futures and options. By incorporating practical examples and visualizations, it demystifies complex concepts, offering valuable insights for finance students and professionals. The exploration covers European options, Binomial Lattice, Black-Scholes models, and extends to futures contracts, providing a practical understanding of their applications. Additionally, the project delves into various option and futures strategies, risk management techniques, and pricing nuances, making it a versatile resource for anyone navigating the dynamic field of finance.
